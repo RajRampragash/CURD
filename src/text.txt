@@ -1,0 +1,5 @@
+context api there are three setps  
+ first publish and the provider and sub 
+ first import the context api in react that is inbulid fuction and use the naem to call the api which we creat teh function 
+   const NameContext = creatcontext()
+   <Naemcontext,porvoider>
